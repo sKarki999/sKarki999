@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Spring Framework**
 
-- 💬 Ask me about **Java, PHP**
-
 - 📫 How to reach me **sagun.karki27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
